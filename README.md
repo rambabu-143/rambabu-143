@@ -59,17 +59,17 @@ Docker • GitHub Actions • Kubernetes (Learning) • Vercel
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,next,nodejs,express,mongodb,postgres,supabase,firebase,docker,kubernetes,git,github,vercel,vite,tailwind,threejs,figma&theme=dark" />
+<span>
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,next,nodejs,express,mongodb,postgres,supabase,firebase,docker,kubernetes,git,github,vercel,vite,tailwind,threejs,figma&theme=dark" style="vertical-align:middle;" />
+</span>
+
+<span>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" style="vertical-align:middle;" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" style="vertical-align:middle;" />
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge" style="vertical-align:middle;" />
+</span>
 
 </p>
-
-<span align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge"/>
-
-</span>
 
 ---
 
