@@ -59,17 +59,34 @@ Docker • GitHub Actions • Kubernetes (Learning) • Vercel
 
 <p align="center">
 
-<span>
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,next,nodejs,express,mongodb,postgres,supabase,firebase,docker,kubernetes,git,github,vercel,vite,tailwind,threejs,figma&theme=dark" style="vertical-align:middle;" />
-</span>
+<img src="https://skillicons.dev/icons?i=ts" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=express" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+<img src="https://skillicons.dev/icons?i=supabase" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="50"/>
+<img src="https://skillicons.dev/icons?i=vite" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=threejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma" height="50"/>
 
-<span>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" style="vertical-align:middle;" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" style="vertical-align:middle;" />
-<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge" style="vertical-align:middle;" />
-</span>
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="50"/>
+<img src="https://cdn.simpleicons.org/langchain/ffffff" height="50"/>
+<img src="https://cdn.simpleicons.org/langgraph/ffffff" height="50"/>
 
 </p>
+
+---
 
 ---
 
