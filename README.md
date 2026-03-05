@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Arabandi Rambabu</h1>
-<h3 align="center">🤖 GenAI Engineer | ⚡ Full-Stack Architect | 🧠 Agentic Systems Builder</h3>
+<h3 align="center">🤖 GenAI Engineer | ⚡ Full-Stack Developer | 🧠 Agentic Systems Builder</h3>
 
 <p align="center">
 Building production-grade AI agents & scalable web systems that actually ship.
