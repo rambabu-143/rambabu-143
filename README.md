@@ -63,13 +63,13 @@ Docker • GitHub Actions • Kubernetes (Learning) • Vercel
 
 </p>
 
-<p align="center">
+<span align="center">
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge"/>
 
-</p>
+</span>
 
 ---
 
