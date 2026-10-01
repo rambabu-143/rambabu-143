@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 200' width='900' height='200'>
+<line x1='60' y1='100' x2='840' y2='100' stroke='#36bcf7' stroke-width='3' stroke-dasharray='780' stroke-dashoffset='780'><animate attributeName='stroke-dashoffset' values='780;0;0;780' keyTimes='0;.7;.95;1' dur='9s' repeatCount='indefinite'/></line>
+<circle r='6' fill='#f778ba'><animateMotion dur='9s' repeatCount='indefinite' keyPoints='0;1;1' keyTimes='0;.7;1' calcMode='linear' path='M60 100 L840 100'/></circle><g opacity='0'><animate attributeName='opacity' values='0;0;1;1;0' keyTimes='0;0.15;0.23;.95;1' dur='9s' repeatCount='indefinite'/>
+<circle cx='150' cy='100' r='9' fill='#0d1117' stroke='#36bcf7' stroke-width='3'><animate attributeName='r' values='9;14;9' dur='2s' repeatCount='indefinite'/></circle>
+<text x='150' y='72' font-family='Fira Code,Consolas,Menlo,monospace' font-size='12' fill='#36bcf7' text-anchor='middle'>Apr 2024</text>
+<text x='150' y='138' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='700' fill='#e6edf3' text-anchor='middle'>Ordermatic</text>
+<text x='150' y='158' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#8b949e' text-anchor='middle'>SDE · Full-Stack POS</text></g><g opacity='0'><animate attributeName='opacity' values='0;0;1;1;0' keyTimes='0;0.43;0.51;.95;1' dur='9s' repeatCount='indefinite'/>
+<circle cx='450' cy='100' r='9' fill='#0d1117' stroke='#36bcf7' stroke-width='3'><animate attributeName='r' values='9;14;9' dur='2s' repeatCount='indefinite'/></circle>
+<text x='450' y='72' font-family='Fira Code,Consolas,Menlo,monospace' font-size='12' fill='#36bcf7' text-anchor='middle'>Jul 2025</text>
+<text x='450' y='138' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='700' fill='#e6edf3' text-anchor='middle'>Cyepro Solutions</text>
+<text x='450' y='158' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#8b949e' text-anchor='middle'>GenAI Eng · Zaya</text></g><g opacity='0'><animate attributeName='opacity' values='0;0;1;1;0' keyTimes='0;0.71;0.79;.95;1' dur='9s' repeatCount='indefinite'/>
+<circle cx='750' cy='100' r='9' fill='#0d1117' stroke='#36bcf7' stroke-width='3'><animate attributeName='r' values='9;14;9' dur='2s' repeatCount='indefinite'/></circle>
+<text x='750' y='72' font-family='Fira Code,Consolas,Menlo,monospace' font-size='12' fill='#36bcf7' text-anchor='middle'>Mar – Sep 2026</text>
+<text x='750' y='138' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='700' fill='#e6edf3' text-anchor='middle'>Arohak Inc</text>
+<text x='750' y='158' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#8b949e' text-anchor='middle'>AI Eng · MCP · GraphRAG · n8n</text></g></svg>
