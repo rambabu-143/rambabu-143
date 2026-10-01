@@ -1,8 +1,9 @@
-<h1 align="center">🚀 Arabandi Rambabu</h1>
-<h3 align="center">🤖 GenAI Engineer | ⚡ Full-Stack Developer | 🧠 Agentic Systems Builder</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arabandi%20Rambabu&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agentic%20Systems%20Builder&descAlignY=60&descSize=16"/>
+</p>
 
 <p align="center">
-Building production-grade AI agents & scalable web systems that actually ship.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+production-grade+AI+agents;Shipping+real-time+voice+agents+%F0%9F%8E%99%EF%B8%8F;Next.js+%2B+TypeScript+%2B+Python;Code.+Deploy.+Scale.+Repeat."/>
 </p>
 
 ---
@@ -81,8 +82,8 @@ Docker • GitHub Actions • Kubernetes (Learning) • Vercel
 <img src="https://skillicons.dev/icons?i=figma" height="50"/>
 
 <img src="https://cdn.simpleicons.org/fastapi/009688" height="50"/>
-<img src="https://cdn.simpleicons.org/langchain/ffffff" height="50"/>
-<img src="https://cdn.simpleicons.org/langgraph/ffffff" height="50"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="50"/>
+<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="50"/>
 
 </p>
 
@@ -114,6 +115,17 @@ Avatar-first personalized shopping experience using React Native + Expo.
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rambabu-143/rambabu-143/output/github-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/rambabu-143/rambabu-143/output/github-snake.svg"/>
+</picture>
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -134,3 +146,5 @@ Avatar-first personalized shopping experience using React Native + Expo.
 <p align="center">
 🔥 “Code. Deploy. Scale. Repeat.” 🔥
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
