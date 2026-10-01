@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arabandi%20Rambabu&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20MCP%20Tooling%20%7C%20Automation%20%7C%20Full-Stack&descAlignY=60&descSize=16"/>
+<img src="assets/banner.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -125,4 +125,4 @@ PostgreSQL • Supabase • AWS • GCP • Docker • Vercel • Git
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="assets/banner.svg" width="100%"/>
