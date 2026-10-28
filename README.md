@@ -1,128 +1,122 @@
-<p align="center">
-<img src="assets/banner.svg" width="100%"/>
-</p>
+<a href="https://rambabu-143.github.io/My-portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.svg" />
+    <img src="assets/profile-hero-light.svg" width="100%" alt="Rambabu Arabandi — AI Engineer in Hyderabad. I build AI that works in production. Open to AI Engineer roles." />
+  </picture>
+</a>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+production-grade+AI+agents;Shipping+real-time+voice+agents+%F0%9F%8E%99%EF%B8%8F;MCP+servers+%7C+n8n+%7C+GraphRAG+%7C+LiveKit;Code.+Deploy.+Scale.+Repeat."/>
+  <a href="https://rambabu-143.github.io/My-portfolio/">Explore portfolio ↗</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/rambabuarabandi/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:rambabuarabandi2001@gmail.com">Email me</a>
 </p>
 
-<p align="center"><img src="assets/neural.svg" width="100%"/></p>
+## Building from idea to production
 
-<p align="center"><img src="assets/terminal.svg" width="800"/></p>
+I'm **Rambabu**, an AI Engineer with a full-stack background. I build voice agents, MCP developer tools, and retrieval workflows — from API integration and orchestration to evaluation and deployment.
 
----
+**500+ daily calls** on a production voice agent. **End to end**, from the first integration to AI evaluation.
 
-# 🪪 Developer ID
+## Selected work
 
-<p align="center"><img src="assets/id-card.svg" width="800"/></p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://rambabu-143.github.io/My-portfolio/work/zaya-voice-ai-agent/">
+        <picture>
+          <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/voice-console-dark.svg" />
+          <source media="(prefers-reduced-motion: reduce)" srcset="assets/voice-console-light.svg" />
+          <source media="(prefers-color-scheme: dark)" srcset="assets/voice-console-dark.gif" />
+          <img src="assets/voice-console-light.gif" width="280" alt="Animated voice console with staggered faders" />
+        </picture>
+        <br /><strong>Zaya ↗</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://rambabu-143.github.io/My-portfolio/work/graphrag-knowledge-retrieval/">
+        <picture>
+          <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/documents-dark.svg" />
+          <source media="(prefers-reduced-motion: reduce)" srcset="assets/documents-light.svg" />
+          <source media="(prefers-color-scheme: dark)" srcset="assets/documents-dark.gif" />
+          <img src="assets/documents-light.gif" width="280" alt="Animated document tray lifting related pages" />
+        </picture>
+        <br /><strong>GraphRAG ↗</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://rambabu-143.github.io/My-portfolio/work/mcp-server-cli/">
+        <picture>
+          <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/server-kit-dark.svg" />
+          <source media="(prefers-reduced-motion: reduce)" srcset="assets/server-kit-light.svg" />
+          <source media="(prefers-color-scheme: dark)" srcset="assets/server-kit-dark.gif" />
+          <img src="assets/server-kit-light.gif" width="280" alt="Animated server kit opening and lifting reusable cartridges" />
+        </picture>
+        <br /><strong>MCP Server CLI ↗</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+| Project | What I built | Stack |
+| :--- | :--- | :--- |
+| **[Zaya](https://rambabu-143.github.io/My-portfolio/work/zaya-voice-ai-agent/)** · Production | Real-time voice agent handling **500+ dealership calls daily**, with tool calling, turn management, and human fallback. | Python · LiveKit Agents · Sarvam AI · FastAPI |
+| **[GraphRAG Knowledge Retrieval](https://rambabu-143.github.io/My-portfolio/work/graphrag-knowledge-retrieval/)** · Enterprise | Contributed to a pipeline combining vector search and graph traversal across related documents, evaluated with RAGAS and DeepEval. | GraphRAG · Vector search · RAGAS · DeepEval |
+| **[MCP Server CLI](https://rambabu-143.github.io/My-portfolio/work/mcp-server-cli/)** · Internal tooling | Go CLI generating runnable MCP server projects with tool registration and configuration wiring. | Go · MCP · DeepEval |
 
-# 💫 About Me
+[Explore the case studies on my portfolio ↗](https://rambabu-143.github.io/My-portfolio/#projects)
 
-AI engineer who designs and ships agentic systems end to end: **MCP tooling, n8n automation, hybrid RAG and multi-agent workflows**, plus a production voice AI deployment. I architect the system, write the code, and build the pipelines that replace manual operations in production.
+## Recent projects
 
-> I don't just integrate AI. I build systems that think, act, and execute. 🔥
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **Class Quality Assessor** | Local class-recording assessment with transcript evidence, speaker signals, and coaching summaries. | [GitHub ↗](https://github.com/rambabu-143/Humaniti-Task) |
+| **Survival Royale** | Browser-based 3D survival game with a shrinking zone, looting, and vehicle gameplay. Built with Babylon.js and Next.js. | [GitHub ↗](https://github.com/rambabu-143/survival-royale) |
+| **Trending AI Post** | Finds trending repos and articles, summarizes them with Ollama, and publishes to LinkedIn. | [GitHub ↗](https://github.com/rambabu-143/Trending-AI-Post) |
+| **My Portfolio** | Interactive AI engineering case studies, Hairline figures, and production project walkthroughs. | [Live ↗](https://rambabu-143.github.io/My-portfolio/) · [GitHub ↗](https://github.com/rambabu-143/My-portfolio) |
 
----
+**Also shipped:** Hello Gorgeouss — [App Store ↗](https://apps.apple.com/in/app/hello-gorgeouss/id6739887399) · [Google Play ↗](https://play.google.com/store/apps/details?id=com.hellogorgeous).
 
-# 📈 Impact
+## Tools I work with
 
-<p align="center"><img src="assets/metrics.svg" width="100%"/></p>
+| Area | Technologies |
+| :--- | :--- |
+| AI & agents | Tool calling · Agent orchestration · Structured outputs · Guardrails · LangChain · LangGraph · Vercel AI SDK |
+| Tooling & automation | MCP servers · Go CLI tooling · n8n · Webhooks · Event-based orchestration |
+| Voice AI | LiveKit Agents · Sarvam AI · Real-time STT/TTS · Turn management |
+| Retrieval & evaluation | GraphRAG · BM25 · Vector search · FalkorDB · RRF · Cross-encoder reranking · RAGAS · DeepEval |
+| Full-stack | Python · TypeScript · JavaScript · Go · FastAPI · Node.js/Express · Next.js · React · Tailwind CSS |
+| Data & cloud | PostgreSQL · MongoDB · Supabase · AWS · GCP · Docker · Vercel · Git |
 
----
+## Experience
 
-# 🌐 Connect With Me
+- **Arohak Inc. · AI Engineer** — Mar–Sep 2026<br />
+  Johnson & Johnson engagement via Cognizant. MCP developer tooling, GraphRAG retrieval, and unattended n8n automation.
+- **Cyepro Solutions · Generative AI Engineer, Contract** — Jul 2025–Feb 2026<br />
+  Architected and shipped Zaya, with real-time voice orchestration and dealership API integrations.
+- **Ordermatic Technologies · Software Development Engineer** — Apr 2024–Apr 2025<br />
+  Full-stack features across billing, CRM, and inventory for a live restaurant POS.
+- **Gymclan Fitness Services · Software Development Intern** — Jan–Apr 2024<br />
+  MERN stack development on FitPaa across frontend and backend.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/rambabuarabandi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rambabuarabandi2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://rambabu-143.github.io/My-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+## Speaking & beyond
 
----
+Speaker at **NOVA 2026 (ACM GRIET)** on MCP, A2A protocols, and AI-native development. I teach AI engineering to students, professionals, and founders.
 
-# ⚡ Skills in Motion
+**B.Tech, Computer Science Engineering** · Bharat Institute of Engineering and Technology, Hyderabad · 2019–2023.
 
-<p align="center"><img src="assets/skills.svg" width="100%"/></p>
+Away from code: singing, hardware teardowns and repairs, and giving older Android phones a second life with custom ROMs.
 
-### 🤖 AI & Agents
-LLM integrations • Prompt engineering • Tool calling • Agent orchestration • Structured outputs • Guardrails • Multi-agent systems  
-MCP servers • n8n workflows • Webhook-driven pipelines • LiveKit Agents • Sarvam AI • Real-time STT/TTS  
-Hybrid retrieval (BM25 + vector + graph) • FalkorDB • RRF fusion • Cross-encoder reranking  
-LangChain • LangGraph • Vercel AI SDK • Claude Code • Cursor
+<details>
+<summary>GitHub activity</summary>
 
-### 💻 Full Stack & Cloud
-Python • TypeScript • JavaScript • FastAPI • Node.js/Express • Next.js • React • Tailwind CSS  
-PostgreSQL • Supabase • AWS • GCP • Docker • Vercel • Git
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,express,fastapi,postgres,supabase,aws,gcp,docker,git,vercel,tailwind&perline=16"/>
-</p>
-
----
-
-# 🛣️ Journey
-
-<p align="center"><img src="assets/timeline.svg" width="100%"/></p>
-
-- **Arohak Inc** · AI Engineer (Mar 2026 – Sep 2026): Go CLI that scaffolds MCP servers end to end, GraphRAG pipeline for multi-hop retrieval, unattended n8n automation in production
-- **Cyepro Solutions** · GenAI Engineer, Contract (Jul 2025 – Feb 2026): architected and shipped **Zaya**, the production voice agent for a US dealership DMS
-- **Ordermatic Technologies** · Software Development Engineer (Apr 2024 – Apr 2025): full-stack on a live restaurant POS (billing, CRM, inventory)
-
----
-
-# 🏆 Featured Projects
-
-<p align="center">
-<a href="https://apps.apple.com/in/app/hello-gorgeouss/id6739887399"><img src="assets/projects.svg" width="100%"/></a>
-</p>
-
-- 🎙️ **Zaya**: 500+ daily calls, STT → LLM tool-calling → TTS on LiveKit Agents, retries/timeouts/fallback routing
-- 👗 **Hello Gorgeouss**: live on [App Store](https://apps.apple.com/in/app/hello-gorgeouss/id6739887399) and [Google Play](https://play.google.com/store/apps/details?id=com.hellogorgeous)
-- 📣 **[Trending AI Post](https://github.com/rambabu-143/Trending-AI-Post)**: daily GitHub → local LLM → LinkedIn bot
-
----
-
-# 🎤 Speaking & Teaching
-
-<p align="center"><img src="assets/speaking.svg" width="100%"/></p>
-
----
-
-# 🎓 Education
-
-**B.Tech in Computer Science Engineering**: Bharat Institute of Engineering and Technology, Hyderabad (2019 – 2023)
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rambabu-143&theme=tokyonight&hide_border=true" />
-<img src="https://streak-stats.demolab.com/?user=rambabu-143&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambabu-143&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rambabu-143/rambabu-143/output/github-snake-dark.svg"/>
-<img src="https://raw.githubusercontent.com/rambabu-143/rambabu-143/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rambabu-143/rambabu-143/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/rambabu-143/rambabu-143/output/github-snake.svg" width="100%" alt="Animated contribution snake tracing my GitHub contribution history" />
 </picture>
-</p>
+
+</details>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-trophies.vercel.app/?username=rambabu-143&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-<img src="assets/banner.svg" width="100%"/>
+**Open to AI Engineer roles. Let's talk.**<br />
+[Email](mailto:rambabuarabandi2001@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rambabuarabandi/) · [Portfolio ↗](https://rambabu-143.github.io/My-portfolio/)
